@@ -18,5 +18,6 @@ Contents
 
 .. toctree::
 
+   cpd
    usage
    api
